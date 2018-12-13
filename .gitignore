@@ -1,1 +1,5 @@
 .env
+data/elasticsearch/*
+!data/elasticsearch/.gitkeep
+data/mariadb/*
+!data/mariadb/.gitkeep
